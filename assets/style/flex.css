@@ -6,4 +6,6 @@
     column-gap: 33px;
 }
 
-@media (min-w)
+@media (min-width: 720px) {
+    
+}
