@@ -82,6 +82,7 @@
       "lista destaque"
       "lista imagem";
     row-gap: 1rem;
+    column-gap: 1.5rem;
   }
 
   .categorias__titulo {
