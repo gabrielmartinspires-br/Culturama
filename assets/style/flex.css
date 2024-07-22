@@ -19,17 +19,17 @@
     }
 
     .menu__item:nth-child(1) {
-        order: ;
+        order: 1;
     }
     .menu__item:nth-child(2) {
-        order: ;
+        order: 3;
     }
     .menu__item:nth-child(3) {
-        order: ;
+        order: 4;
     }
     .menu__item:nth-child(4) {
-        order: ;
+        order: 5;
     }
     .menu__item:nth-child(5) {
-        order: ;
+        order: 2;
     }
